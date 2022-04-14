@@ -1,3 +1,5 @@
 hola esta es la historia de emiliano colombo, capacitandose en Platzi en Machine Learning Enginieer,
 y ahora estoy estudiando
 Git Hub aunque ya hice un curso relacionado con ello.
+
+Hoy empezamos con html y css con Git
