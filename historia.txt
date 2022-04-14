@@ -2,4 +2,5 @@ hola esta es la historia de emiliano colombo, capacitandose en Platzi en Machine
 y ahora estoy estudiando
 Git Hub aunque ya hice un curso relacionado con ello.
 
-Hoy empezamos con html y css con Git
+Hoy empezamos con html y css con Git.
+A concentarse y seguir enfocado
